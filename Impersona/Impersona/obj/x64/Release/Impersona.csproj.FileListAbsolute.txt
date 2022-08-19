@@ -1,0 +1,7 @@
+C:\Users\vinic\Source\Repos\Impersona\Impersona\obj\x64\Release\Impersona.csproj.AssemblyReference.cache
+C:\Users\vinic\Source\Repos\Impersona\Impersona\obj\x64\Release\Impersona.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Source\Repos\Impersona\Impersona\bin\x64\Release\Impersona.exe.config
+C:\Users\vinic\Source\Repos\Impersona\Impersona\bin\x64\Release\Impersona.exe
+C:\Users\vinic\Source\Repos\Impersona\Impersona\bin\x64\Release\Impersona.pdb
+C:\Users\vinic\Source\Repos\Impersona\Impersona\obj\x64\Release\Impersona.exe
+C:\Users\vinic\Source\Repos\Impersona\Impersona\obj\x64\Release\Impersona.pdb
