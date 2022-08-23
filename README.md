@@ -13,3 +13,5 @@ _After loading the powershell script in memory...._
 ![image](https://user-images.githubusercontent.com/87672627/185720365-0e5f4a7d-4413-4177-a251-54243067af05.png)
 
 ![image](https://user-images.githubusercontent.com/87672627/185720376-43cc099a-a589-4d2e-ab60-9d063a22e449.png)
+
+For a explanation about this project, check up my [blog post](https://medium.com/@vinicius.batistella.99/impersona-a-portable-way-to-impersonate-users-f2ced3788219).
